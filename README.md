@@ -1,4 +1,4 @@
-# DSCI-532_2026_21_Dashboard
+# DSCI-532_2026_21_beetle-tracker
 
 ## Japanese Beetle — Invasive Species Tracker
 
