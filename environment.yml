@@ -1,0 +1,15 @@
+name: 'dsci532'
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - plotly
+  - matplotlib
+  - pandas
+  - python
+  - ipykernel
+  - seaborn
+  - scienceplots
+  - scikit-learn
+  - nbformat
+  - shiny
